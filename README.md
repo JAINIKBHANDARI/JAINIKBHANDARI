@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **DSA and Backend Fundamentals**
 
-- 🧠 Practicing DSA on [LeetCode](https://leetcode.com/u/jainikbhandari/)
-
 - 📫 How to reach me **jainikdmn@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
