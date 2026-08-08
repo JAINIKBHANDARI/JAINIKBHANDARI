@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jainik</h1>
+<h1 align="center">Hi <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">, I'm Jainik</h1>
 <h3 align="center">A passionate aspiring Software Developer</h3>
 
 - 🔭 I’m currently working on [ResumeIQ – AI-powered Resume Analyzer](https://github.com/JAINIKBHANDARI/ResumeIQ)
