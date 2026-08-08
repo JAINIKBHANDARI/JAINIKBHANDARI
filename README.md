@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi
-  <img src="YOUR_GITHUB_GIF_URL"
+  <img src="https://raw.githubusercontent.com/JAINIKBHANDARI/JAINIKBHANDARI/main/gifs/Hi.gif"
        width="38"
        style="vertical-align: middle;">
   , I'm Jainik
